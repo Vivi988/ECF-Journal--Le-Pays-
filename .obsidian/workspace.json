@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "7075d1b3264035d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c8e82cccf1b273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9c7fd0b4909d767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cahier des charges Journal Le Pays.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "a1174b694e22e623"
+          }
+        ]
+      },
+      {
+        "id": "0075c6f68786df48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0de9a60217f83478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cahier des charges Journal Le Pays.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "a1174b694e22e623"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64a9d322a28d424c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c340d775c38bd1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df2000a155c8df75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "097bdabf2a39a266",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c218244036e2c8b8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6f86ab7cd0ce0a58",
+    "type": "split",
+    "children": [
+      {
+        "id": "13bc704f9f549bd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be130007f0811ad6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cahier des charges Journal Le Pays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a1ae0416a0095c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cahier des charges Journal Le Pays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1d762dc95d3b8ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "552c1927aa445463",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cahier des charges Journal Le Pays.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df2000a155c8df75",
+  "lastOpenFiles": []
+}
