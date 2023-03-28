@@ -64,5 +64,3 @@ Pour la résalisation de ce projet nous utiliserons le CMS [WordPress](https://w
 Voici l'arborescence du site :
 
 ![[Arborescence_lepays.png]]
-
-

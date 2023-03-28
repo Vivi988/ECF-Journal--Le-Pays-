@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f86ab7cd0ce0a58",
@@ -170,7 +169,8 @@
   "active": "c9c7fd0b4909d767",
   "lastOpenFiles": [
     "Arborescence_lepays.png",
-    "figma.com.md",
-    "Cahier des charges du site Le Pays.md"
+    "Arborescence_lepays - Copie.png",
+    "Cahier des charges du site Le Pays.md",
+    "figma.com.md"
   ]
 }
