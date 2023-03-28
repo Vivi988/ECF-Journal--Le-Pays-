@@ -22,7 +22,7 @@ Les articles de presse doivent être facilement consultables et présentés de m
 Le site doit être accessible sur mobile pour toucher des lecteurs plus jeunes et familiarisés avec la technologie.
 
 ### La navigation : 
-La taxonomie du site devra permettre une navigation intuitive des contenus par catégories ou à l'aide de tags
+La taxonomie du site devra permettre une navigation intuitive des contenus par catégories ou à l'aide de tags.
 
 ---
 # Les Personas 
@@ -54,3 +54,15 @@ Caroline peut se sentir débordée par la quantité d'informations disponibles e
 # Les outils 
 
 Pour la résalisation de ce projet nous utiliserons le CMS [WordPress](https://wordpress.com) avec , pour la réalisation des maquettes en fil de fer, nous utiliserons [Figma](https://figma.com) et enfin pour l'hébergement nous passerons par [Deploybot](https://deploybot.com/) .
+
+---
+
+# Scénario de navigation
+
+# Arborescence du site
+
+Voici l'arborescence du site :
+
+![[Arborescence_lepays.png]]
+
+
