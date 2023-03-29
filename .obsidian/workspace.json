@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cahier des charges du site Le Pays.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -168,6 +168,10 @@
   },
   "active": "c9c7fd0b4909d767",
   "lastOpenFiles": [
+    "Storymap_lepays 1.png",
+    "diag_act_LePays.png",
+    "Storymap_lepays.png",
+    "diag_act.mdj",
     "Arborescence_lepays.png",
     "Arborescence_lepays - Copie.png",
     "Cahier des charges du site Le Pays.md",

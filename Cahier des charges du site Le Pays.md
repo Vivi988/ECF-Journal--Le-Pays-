@@ -53,14 +53,35 @@ Caroline peut se sentir débordée par la quantité d'informations disponibles e
 
 # Les outils 
 
-Pour la résalisation de ce projet nous utiliserons le CMS [WordPress](https://wordpress.com) avec , pour la réalisation des maquettes en fil de fer, nous utiliserons [Figma](https://figma.com) et enfin pour l'hébergement nous passerons par [Deploybot](https://deploybot.com/) .
+Pour la résalisation de ce projet nous utiliserons le CMS [WordPress](https://wordpress.com) avec la création d'un thème avec l'utilisation de [Bootstrap](https://bootstrap.com) , pour la réalisation des maquettes en fil de fer, nous utiliserons [Figma](https://figma.com) et enfin pour l'hébergement nous passerons par [Deploybot](https://deploybot.com/) .
 
 ---
 
 # Scénario de navigation
+
+Voici le diagramme d'activité représentant la consultation d'articles sur le site du journal Le Pays : 
+
+![[diag_act_LePays.png]]
+
+---
+# Story-map
+
+![[Storymap_lepays 1.png]]
+
+----
 
 # Arborescence du site
 
 Voici l'arborescence du site :
 
 ![[Arborescence_lepays.png]]
+
+---
+
+
+
+# Maquettes 
+
+Voici nos maquettes Wireframe ou fil de fer, en version Desktop et Mobile.
+
+---
