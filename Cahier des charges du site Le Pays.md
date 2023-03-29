@@ -13,16 +13,16 @@ Créer un site internet pour le journal "Le Pays" afin de relayer les informatio
 # Le contenu
 
 ### Le site :
-Le site doit mettre en avant les activités sportives et culturelles du pays, avec un accès rapide aux différents événements à venir.
+Le site doit ==mettre en avant les activités sportives et culturelles du pays, avec un accès rapide aux différents événements à venir.==
 
 ### La présentation : 
-Les articles de presse doivent être facilement consultables et présentés de manière chronologique pour prioriser l'information du jour.
+Les articles de presse doivent être facilement consultables et ==présentés de manière chronologique pour prioriser l'information du jour.==
 
 ### L'accessibilité : 
-Le site doit être accessible sur mobile pour toucher des lecteurs plus jeunes et familiarisés avec la technologie.
+Le site doit être ==accessible sur mobile== pour toucher des lecteurs plus jeunes et familiarisés avec la technologie.
 
 ### La navigation : 
-La taxonomie du site devra permettre une navigation intuitive des contenus par catégories ou à l'aide de tags.
+La taxonomie du site devra permettre ==une navigation intuitive des contenus par catégories ou à l'aide de tags.==
 
 ---
 # Les Personas 
@@ -82,6 +82,6 @@ Voici l'arborescence du site :
 
 # Maquettes 
 
-Voici nos maquettes Wireframe ou fil de fer, en version Desktop et Mobile.
+Les maquettes sont dans le dossier "Maquettes du site"
 
 ---

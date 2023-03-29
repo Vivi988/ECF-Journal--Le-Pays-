@@ -14,30 +14,10 @@
               "type": "markdown",
               "state": {
                 "file": "Cahier des charges du site Le Pays.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "a1174b694e22e623"
-          }
-        ]
-      },
-      {
-        "id": "0075c6f68786df48",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0de9a60217f83478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cahier des charges du site Le Pays.md",
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "a1174b694e22e623"
+            }
           }
         ]
       }
@@ -168,16 +148,16 @@
   },
   "active": "c9c7fd0b4909d767",
   "lastOpenFiles": [
-    "Maquettes du site/Maquettes ECF Journal _Le Pays_ DESKTOP.pdf",
-    "Maquettes du site/Maquettes ECF Journal _Le Pays_MOBILE.pdf",
-    "Maquettes du site",
-    "Storymap_lepays 1.png",
-    "diag_act_LePays.png",
-    "Storymap_lepays.png",
-    "diag_act.mdj",
     "Arborescence_lepays.png",
-    "Arborescence_lepays - Copie.png",
+    "figma.com.md",
+    "Storymap_lepays 1.png",
+    "Storymap_lepays.png",
+    "Maquettes du site/Maquettes ECF Journal _Le Pays_MOBILE.pdf",
+    "Maquettes du site/Maquettes ECF Journal _Le Pays_ DESKTOP.pdf",
     "Cahier des charges du site Le Pays.md",
-    "figma.com.md"
+    "Maquettes du site",
+    "diag_act_LePays.png",
+    "diag_act.mdj",
+    "Arborescence_lepays - Copie.png"
   ]
 }
